@@ -5,7 +5,7 @@
 The term ‘job satisfaction’ has various meanings. There are many factors involved to measure or quantify this “satisfaction”. 
 Our project has utilised the Glassdoor Job Reviews dataset from Kaggle to analyse the multidimensional sentiments of various job descriptions based on the ratings from 1 to 5 on different categories such as work-life balance, career opportunities,senior management and so on.
 
-####Dataset used
+#### Dataset used
 Glassdoor Job Reviews
 
 Licence : [CC0: Public Domain]
@@ -20,7 +20,7 @@ As there are 427 companies in the dataset, analysing all companies across the va
 
 ### Research Questions
 
-####Question 1
+#### Question 1
 What is the relationship between the work environment factors and overall job satisfaction? These will include:
 Work Life Balance
 Career Opportunities
@@ -28,10 +28,10 @@ Diversity Inclusion
 Company Benefits
 Senior Management
 
-####Question 2
+#### Question 2
 How has an employer's rating changed over the time period sampled, and what are the contributing work environment factors that may contribute to this change?
 
-####Question 3
+#### Question 3
 Is there a correlation between the region an employee is working in and the overall job satisfaction across the companies sampled?
 
 ### Summary
